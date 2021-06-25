@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<!-- saved from url=(0035)https://www.freeguitarchordapp.com/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guitar Chords</title>
+    <link rel="stylesheet" href="./guitarappprev_files/stylesheet.css">
+</head>
+<body>
+    
+    
+        <nav>
+          <ul class="major_option_list">
+            <li><button class="major_chords">Major<img src="./guitarappprev_files/arrow-down-01-512.webp" class="arrow"></button></li>
+            <li><button class="a_chord">A Major</button></li>
+            <li><button class="b_chord">B Major</button></li>
+            <li><button class="c_chord">C Major</button></li>
+            <li><button class="d_chord">D Major</button></li>
+            <li><button class="e_chord">E Major</button></li>
+            <li><button class="f_chord">F Major</button></li>
+            <li><button class="g_chord">G Major</button></li>
+          </ul>
+          <ul id="minor" class="minor_option_list">
+            <li><button class="minor_chords">Minor <img src="./guitarappprev_files/arrow-down-01-512.webp" class="arrow_two"></button></li>
+            <li><button id="minor" class="a_minor">A Minor</button></li>
+            <li><button id="minor" class="b_minor">B Minor</button></li>
+            <li><button id="minor" class="c_minor">C Minor</button></li>
+            <li><button id="minor" class="d_minor">D Minor</button></li>
+            <li><button id="minor" class="e_minor">E Minor</button></li>
+            <li><button id="minor" class="f_minor">F Minor</button></li>
+            <li><button id="minor" class="g_minor">G Minor</button></li>
+          </ul>
+          <button class="reset">Reset</button>
+        </nav>
+      
+      <div class="chord_display"> </div>
+          <div class="app">
+            <section class="first_fret">
+              <span id="fing_place_cont" class="one">
+              </span>
+              <span id="fing_place_cont" class="two">
+              </span>
+              <span id="fing_place_cont" class="three">
+              </span> 
+              <span id="fing_place_cont" class="four">
+              </span> 
+              <span id="fing_place_cont" class="five">
+              </span> 
+              <span id="fing_place_cont" class="six">
+              </span> 
+              <div class="e_a_string">
+              </div>
+              <div class="d_string">
+              </div>
+              <div class="g_string">
+              </div>
+              <div class="b_string">
+              </div>
+              <div class="e_string">
+              </div>
+            </section>
+            <section class="sec_fret">
+              <div class="e_a_string">
+              </div>
+              <div class="d_string">
+              </div>
+              <div class="g_string">
+              </div>
+              <div class="b_string">
+              </div>
+              <div class="e_string">
+              </div>
+            </section>
+            <section class="third_fret">  
+              <div class="e_a_string">
+              </div>
+              <div class="d_string">
+              </div>
+              <div class="g_string">
+              </div>
+              <div class="b_string">
+              </div>
+              <div class="e_string">
+              </div>
+            </section>
+            <section class="fourth_fret">
+              <div class="e_a_string">
+              </div>
+              <div class="d_string">
+              </div>
+              <div class="g_string">
+              </div>
+              <div class="b_string">
+              </div>
+              <div class="e_string">
+              </div>
+            </section> 
+            <section class="fifth _fret">
+              <div class="e_a_string">
+              </div>
+              <div class="d_string">
+              </div>
+              <div class="g_string">
+              </div>
+              <div class="b_string">
+              </div>
+              <div class="e_string">
+              </div>
+            </section>             
+            </div>
+            <section class="devko_tm">
+                <a href="https://devkomarketinggroup.com/" target="_blank" id="devko_link">Product of Devko Marketing Group</a><a href="https://devkomarketinggroup.com/" target="_blank"><img src="./guitarappprev_files/DEVKOLOGO2WHITE.PNG" class="devko_logo"></a>
+              </section>
+        <script src="./guitarappprev_files/script.js"></script>
+    
+
+
+</body></html>
