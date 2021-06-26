@@ -20,8 +20,6 @@ html {
     color: white;
   }
 
-<<<<<<< HEAD
-=======
   .link {
     transition: .2s;
   }
@@ -30,7 +28,6 @@ html {
   transform: scale(1.2);
 }
 
->>>>>>> in-development
 .links p{
     cursor: pointer;
   }
@@ -147,8 +144,6 @@ html {
     font-size: 30pt;
   }
 
-<<<<<<< HEAD
-=======
   .fas {
     color: black;
     font-size: 80pt;
@@ -161,7 +156,6 @@ html {
     width: 200px;
   }
 
->>>>>>> in-development
   .icon_container {
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
@@ -255,11 +249,7 @@ html {
       margin-left: 50px;
     }
 
-<<<<<<< HEAD
-    .devko_icon {
-=======
     .oi_icon {
->>>>>>> in-development
       font-size: 15pt;
     }
 
